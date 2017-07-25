@@ -1,6 +1,6 @@
 # waterPolo
 自制原生js水波纹插件
-# 创建画布元素生成waterPolo
+# 创建画布元素内包装
 # 以下为默认参数
 
 waterPolo('canvas',{
